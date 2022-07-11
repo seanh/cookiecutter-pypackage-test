@@ -1,6 +1,7 @@
 {
   "template": "https://github.com/hypothesis/cookiecutters",
   "directory": "pypackage",
+  "checkout": "cache-the-tox-dir-for-pypackages",
   "ignore": [],
   "extra_context": {
     "name": "cookiecutter-pypackage-test",
