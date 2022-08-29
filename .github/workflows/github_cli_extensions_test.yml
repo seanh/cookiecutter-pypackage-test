@@ -13,4 +13,4 @@ jobs:
         with:
           python-version: '3.10'
       - run: gh extension install vilmibm/gh-user-status
-      - run: gh user-status get seanh
+      - run: gh user-status get vilmibm
