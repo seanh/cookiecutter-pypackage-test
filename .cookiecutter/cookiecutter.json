@@ -1,13 +1,13 @@
 {
   "template": "https://github.com/hypothesis/cookiecutters",
   "directory": "pypackage",
-  "ignore": [".github/workflows/ci.yml"],
+  "ignore": [],
   "extra_context": {
     "name": "cookiecutter-pypackage-test",
     "package_name": "cookiecutter_pypackage_test",
     "slug": "cookiecutter-pypackage-test",
     "short_description": "A test package for our pypackage cookiecutter.",
-    "python_versions": "3.10.4, 3.9.12, 3.8.13, 3.7.13",
+    "python_versions": "3.10.4, 3.9.12, 3.8.13",
     "github_owner": "hypothesis",
     "copyright_holder": "Hypothesis",
     "visibility": "private",
