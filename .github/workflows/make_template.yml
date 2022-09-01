@@ -17,4 +17,3 @@ jobs:
         uses: peter-evans/create-pull-request@v4.1.1
         with:
           token: ${{ secrets.PAT }}
-          push-to-fork: gha-hypothesis/cookiecutter-pypackage-test
