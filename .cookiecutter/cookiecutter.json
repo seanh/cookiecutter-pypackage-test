@@ -1,7 +1,7 @@
 {
   "template": "https://github.com/hypothesis/cookiecutters",
   "directory": "pypackage",
-  "ignore": [],
+  "ignore": [".github/workflows/ci.yml"],
   "extra_context": {
     "name": "cookiecutter-pypackage-test",
     "package_name": "cookiecutter_pypackage_test",
