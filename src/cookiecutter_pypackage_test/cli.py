@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
 from importlib.metadata import version
-# changed
 
 
 def cli(_argv=None):  # pylint:disable=inconsistent-return-statements
